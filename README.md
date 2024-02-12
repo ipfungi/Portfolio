@@ -6,10 +6,9 @@ I am a young graduate in space sciences who loves creating simulations and shari
 
 I have published more than 50 science communication posts on social media as a volunteer for an association (Astronomonical Society of Liège). Thanks to my background in space sciences, I am able to understand and to explain unknown and complex aspects of our Universe. The topics are very diverse. Black hole processes, cosmology, history of science discoveries, extragalactic astrophysics, planetology, radio astrophysics, etc. Some of my posts are listed below with the links to their original publication in Instagram.
 
-[An interactive game about tidal effects around a black hole.](https://www.instagram.com/p/CtXUSd1NTRk/?img_index=1))
+[An interactive game about tidal effects around a black hole.](https://www.instagram.com/p/CtXUSd1NTRk/?img_index=1)
 
-
-[Three posts about the theoretical pilars of the Big Bang.](https://www.instagram.com/p/CwLMLtFNDy-/?img_index=1)).
+[Third post about the theoretical pilars of the Big Bang.](https://www.instagram.com/p/CwLMLtFNDy-/?img_index=1))
 
 ## Black hole raytracer
 
@@ -19,7 +18,7 @@ I have created a simple black-hole raytracer in Python (see the source code). It
 
 This project concerns the emission of gravitational waves during a black-hole inspiral. This two-body systems evacuates gravitational energy during its orbital motion. Each black hole get closer to the other and emit spherical gravitational waves. Their intensity increases during the inspiral until the collision. The ringdown phase and the merger are not simulated since they required specific tools associated with numerical relativity. This python simulation has been created with numpy and matplotlib   
 
-[My animation of a black-hole inspiral.](https://www.instagram.com/p/C1hLxmXN2Y1/))
+[My animation of a black-hole inspiral.](https://www.instagram.com/p/C1hLxmXN2Y1/)
 
 ## Sound design, audio
 
