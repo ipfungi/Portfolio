@@ -12,11 +12,11 @@ I have published more than 50 science communication posts on social media as a v
 
 ## Black hole raytracer
 
-I have created a simple black-hole raytracer in Python (see the source code). It highlights the gravitational lensing effect and the event horizon of a Schwarzschild black hole. The project can be summarized in three steps. First, we have to solve the light-like geodesic equation of General Relativity for a static black hole. Second, we have to consider the inverse situation in order to drastically reduce the computation time. The observer emits photons and if a photon hits a pixel of the background image, then this pixel is turned on. By processing recursively these two steps, I was able to obtain such images.
+I have created a simple black-hole raytracer in Python (see the source code). It highlights the gravitational lensing effect and the event horizon of a Schwarzschild black hole. The project can be summarized in three steps. First, we have to solve the light-like geodesic equation of General Relativity for a static black hole. Second, we have to consider the inverse situation in order to drastically reduce the computation time. The observer emits photons and if a photon hits a pixel of the background image, then this pixel is turned on. By processing recursively these two steps, I was able to obtain such kind of images.
 
 ![A stellar Schwarzschild black hole in space. The background image is the famous Hubble field.](https://github.com/ipfungi/Portfolio/blob/main/raytracer.png "A stellar Schwarzschild black hole in space. The background image is the famous Hubble field.")
 
-The python code has been created with numpy, matplotlib, and PIL (source code [here](https://github.com/ipfungi/Black-hole-raytracer)).  
+This is the lensing effect and the event horizon of a stellar Schwarzschild black hole. The background image is the famous Hubble field. The python code has been created with numpy, matplotlib, and PIL (source code [here](https://github.com/ipfungi/Black-hole-raytracer)).  
 
 ## Inspiral
 
