@@ -1,6 +1,6 @@
 # Portfolio 
 
-I am a young graduate in space sciences who loves creating simulations and sharing sciences. Here are some samples of my science communication projects.
+I am a young graduate in space sciences who loves sharing sciences. Here are some samples of my volunteering projects.
 
 ## Science writing
 
