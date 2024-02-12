@@ -8,7 +8,7 @@ I have published more than 50 science communication posts on social media as a v
 
 [An interactive game about tidal effects around a black hole.](https://www.instagram.com/p/CtXUSd1NTRk/?img_index=1)
 
-[Third post about the theoretical pilars of the Big Bang.](https://www.instagram.com/p/CwLMLtFNDy-/?img_index=1))
+[Third post about the theoretical pilars of the Big Bang.](https://www.instagram.com/p/CwLMLtFNDy-/?img_index=1)
 
 ## Black hole raytracer
 
