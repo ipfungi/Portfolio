@@ -12,11 +12,11 @@ I have published around 50 science communication posts on social media as a volu
 
 ## Black hole raytracer
 
-I have created a simple black hole raytracer in Python. It highlights the gravitational lensing effect and the event horizon of a Schwarzschild black hole. The project can be summarized in three steps. First, we have to solve the light-like geodesic equation of General Relativity for a Schwarzschild black hole. Second, we have to consider the inverse situation to drastically reduce the computation time : the observer emits photons and if a photon hits a pixel of the background image, then this pixel is turned on. By processing recursively these two steps, I finally obtain such images.
+I have created a simple black hole raytracer in Python. It highlights the gravitational lensing effect and the event horizon of a Schwarzschild black hole for an observer outside the black hole. The project can be summarized in three steps. First, we have to solve the light-like geodesic equation of General Relativity for a Schwarzschild black hole. Second, we have to consider the following situation to drastically reduce the computation time : the observer emits photons and if a photon hits a pixel of the background image, then this pixel is turned on. By processing recursively these two steps, I finally obtain such images.
 
 ![A stellar Schwarzschild black hole in space. The background image is the famous Hubble field.](https://github.com/ipfungi/Portfolio/blob/main/raytracer.png "A stellar Schwarzschild black hole in space. The background image is the famous Hubble field.")
 
-This is the lensing effect and the event horizon of a Schwarzschild black hole. The background image is the famous Hubble field. The python code has been created with numpy, matplotlib, and PIL (source code [here](https://github.com/ipfungi/Black-hole-raytracer)).  
+This is the lensing effect and the event horizon of a Schwarzschild black hole. Note that this simulation does not take into account rotations of photons around the black hole. Here, we only see the image formed by direct photons (i.e. the rotation angle does not exceed pi). The event horizon is thus overestimated. The background image is the famous Hubble field. The python code has been created with numpy, matplotlib, and PIL (source code [here](https://github.com/ipfungi/Black-hole-raytracer)).  
 
 ## Inspiral
 
